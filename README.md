@@ -1,6 +1,6 @@
 # Materials for an experiment about the perception of nonlinear lines
 
-![[license](https://github.com/trybnetic/line-perception/blob/master/LICENSE.txt)](https://img.shields.io/github/license/trybnetic/line-perception.svg)
+[![license](https://img.shields.io/github/license/trybnetic/line-perception.svg)](https://github.com/trybnetic/line-perception/blob/master/LICENSE.txt)
 
 Currently, this repository contains the plans for an experiment about the perception of nonlinear lines. It is planned to extend the content of this
 repository by the code to run the experiment, the collected data and the
